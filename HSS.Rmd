@@ -34,5 +34,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 # Mei Li you
 ```{r}
 print(log(10))
+print("Shadiao")
 ```
 
