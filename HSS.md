@@ -37,3 +37,14 @@ You can also embed plots, for example:
 ![](HSS_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Mei Li you
+
+```r
+print(log(10))
+```
+
+```
+## [1] 2.302585
+```
+
